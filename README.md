@@ -70,8 +70,14 @@ This package is a generic extraction of autonomy and durable-work ideas develope
 
 The larger Home project also uses and extends ideas from Sylvie's [`mcp-app-message-bridge`](https://github.com/wynsyl1014/mcp-app-message-bridge), which is MIT licensed. The initial public code in **this** repository is an independent extraction of the autonomy/durable-work layer rather than a copy of that bridge. We still keep the relationship documented so project history is not erased.
 
-See [`NOTICE.md`](./NOTICE.md) and [`PROVENANCE.md`](./PROVENANCE.md).
+See [`NOTICE.md`](./NOTICE.md). If third-party source is incorporated or adapted in future, its provenance and original license must be documented and preserved.
 
 ## License
 
-MIT. See [`LICENSE`](./LICENSE).
+Copyright (c) 2026 gwithyu.
+
+This repository is source-available under the **PolyForm Noncommercial License 1.0.0**. Noncommercial use, study, modification, and distribution are permitted subject to the license terms. **Commercial use, commercial distribution, resale, paid products/services, or other commercial exploitation are not granted by this public license.** Commercial licensing remains available only by separate permission from the copyright holder.
+
+This is a noncommercial source-available license, not an OSI-approved open-source license.
+
+See [`LICENSE`](./LICENSE).
