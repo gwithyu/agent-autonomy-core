@@ -1,0 +1,15 @@
+{
+  "name": "agent-autonomy-core",
+  "version": "0.1.0",
+  "description": "A reusable autonomy, self-wakeup, and durable-work core for agent systems.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
